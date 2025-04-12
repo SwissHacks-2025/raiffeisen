@@ -5,6 +5,44 @@ AmEUL6drPv1x2aynlPrJlB8rlCQxSI4TohjiVxrvGK1jOLfeQGVFJQQJ99BDACfhMk5XJ3w3AAABACOG
 
 *********************************************************************************************
 
+Try also this key:
+1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
+
+With these endpoints:
+
+Language APIs: 
+https://swisshacks.openai.azure.com/
+
+Dall-e APIs	
+https://swisshacks.openai.azure.com/
+1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
+
+Whisper APIs	
+https://swisshacks.openai.azure.com/
+1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
+
+Speech to Text (Standard)
+https://swedencentral.stt.speech.microsoft.com
+
+Text to Speech (Neural)	
+https://swedencentral.tts.speech.microsoft.com
+
+Custom Voice	
+https://swisshacks.cognitiveservices.azure.com/
+
+Computer Vision	
+https://swisshacks.cognitiveservices.azure.com/
+
+Content Understanding	
+https://swisshacks.services.ai.azure.com/
+
+
+
+
+
+*********************************************************************************************
+
+
 The following Endpoints contain:  
 
 gpt-4o:	Text-to-Text, Image-to-Text	450k Tokens pro Minute im Global Standard
@@ -33,6 +71,10 @@ https://swisshacks-aoai-francecentral.openai.azure.com
 
 swisshacks-aoai-eastus	https://swisshacks-aoai-eastus.openai.azure.com
 2f8orgJ7DEYAYGusBYBg2hvVIhbPWq0rEwZ7nIGhbRK50KBTd6DTJQQJ99BDACYeBjFXJ3w3AAABACOGqvR9
+
+
+*********************************************************************************************
+
 
 
 
