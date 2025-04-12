@@ -1,3 +1,18 @@
+This Endpoint should also contain Whisper:
+
+https://swisshacks-aoai-sweden.openai.azure.com/
+AmEUL6drPv1x2aynlPrJlB8rlCQxSI4TohjiVxrvGK1jOLfeQGVFJQQJ99BDACfhMk5XJ3w3AAABACOG1UcD
+
+*********************************************************************************************
+
+The following Endpoints contain:  
+
+gpt-4o:	Text-to-Text, Image-to-Text	450k Tokens pro Minute im Global Standard
+gpt-4o-mini:	Text-to-Text, Image-to-Text;	2M Tokens pro Minute im Global Standard
+o3-mini:	Text-to-Text;	5M Tokens pro Minute im Global Standard
+text-embedding-3-large:	Text-to-Embedding;	1M Tokens pro Minute im Global Standard
+
+
 swisshacks-aoai-westeurope
 https://swisshacks-aoai-westeurope.openai.azure.com
 2yjmTT6QIzFt2Aln8FkFd49mBUhqtp6GEFAOQX11ANvxGOfjUw4IJQQJ99BDAC5RqLJXJ3w3AAABACOG9ngV
@@ -18,3 +33,7 @@ https://swisshacks-aoai-francecentral.openai.azure.com
 
 swisshacks-aoai-eastus	https://swisshacks-aoai-eastus.openai.azure.com
 2f8orgJ7DEYAYGusBYBg2hvVIhbPWq0rEwZ7nIGhbRK50KBTd6DTJQQJ99BDACYeBjFXJ3w3AAABACOGqvR9
+
+
+
+
