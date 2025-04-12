@@ -5,6 +5,13 @@ AmEUL6drPv1x2aynlPrJlB8rlCQxSI4TohjiVxrvGK1jOLfeQGVFJQQJ99BDACfhMk5XJ3w3AAABACOG
 
 *********************************************************************************************
 
+gpt-35-turbo-instruct
+https://swisshacks-aoai-sweden.openai.azure.com/openai/deployments/gpt-35-turbo-instruct/chat/completions?api-version=2025-01-01-preview
+AmEUL6drPv1x2aynlPrJlB8rlCQxSI4TohjiVxrvGK1jOLfeQGVFJQQJ99BDACfhMk5XJ3w3AAABACOG1UcD
+
+
+*********************************************************************************************
+
 Try also this key:
 1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
 
