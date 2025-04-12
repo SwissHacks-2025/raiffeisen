@@ -10,34 +10,21 @@ Try also this key:
 
 With these endpoints:
 
-Language APIs: 
-https://swisshacks.openai.azure.com/
+Language APIs: https://swisshacks.openai.azure.com/
 
-Dall-e APIs	
-https://swisshacks.openai.azure.com/
-1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
+Dall-e APIs: https://swisshacks.openai.azure.com/
 
-Whisper APIs	
-https://swisshacks.openai.azure.com/
-1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
+Whisper APIs: https://swisshacks.openai.azure.com/
 
-Speech to Text (Standard)
-https://swedencentral.stt.speech.microsoft.com
+Speech to Text (Standard): https://swedencentral.stt.speech.microsoft.com
 
-Text to Speech (Neural)	
-https://swedencentral.tts.speech.microsoft.com
+Text to Speech (Neural): https://swedencentral.tts.speech.microsoft.com
 
-Custom Voice	
-https://swisshacks.cognitiveservices.azure.com/
+Custom Voice: https://swisshacks.cognitiveservices.azure.com/
 
-Computer Vision	
-https://swisshacks.cognitiveservices.azure.com/
+Computer Vision: https://swisshacks.cognitiveservices.azure.com/
 
-Content Understanding	
-https://swisshacks.services.ai.azure.com/
-
-
-
+Content Understanding: https://swisshacks.services.ai.azure.com/
 
 
 *********************************************************************************************
