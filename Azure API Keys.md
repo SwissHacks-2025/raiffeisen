@@ -16,6 +16,7 @@ https://swisshacks.cognitiveservices.azure.com/openai/realtime?api-version=2024-
 Azure AI Search
 https://swisshacksaisearch.search.windows.net
 B6dLbWFcmK5qxZHFwWpqiAYfOeGV63EjOFnWkUAkGrAzSeBI2uq0
+apiVersion": "2020-08-01"
 
 *********************************************************************************************
 
