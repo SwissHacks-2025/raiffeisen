@@ -1,0 +1,16 @@
+name: hackvisor
+channels:
+  - anaconda
+  - conda-forge
+  # - defaults
+dependencies:
+ - python=3.13
+ - pip
+ - pip:
+    - openai
+    - hydra
+    - langchain
+    - langchain-community
+    - chromadb
+    - hydra-core
+    - langchain-openai

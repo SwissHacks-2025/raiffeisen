@@ -1,1 +1,12 @@
+# docs paths
 raiffeisen_products_path: docs/raiffeisenprodukte_final_EN.docx
+bias_path: docs/biases_descriptions.csv
+
+api_version: 2024-02-15-preview
+azure_endpoint: https://swisshacks-aoai-westeurope.openai.azure.com/
+
+# embeddings
+embeddings:
+  model_name: text-embedding-3-large
+
+

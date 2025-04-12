@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-community
+chromadb
+hydra-core
+langchain-openai
+docx2txt
+networkx
+pandas
+numpy
+unstructured
+openpyxl
