@@ -1,0 +1,20 @@
+swisshacks-aoai-westeurope
+https://swisshacks-aoai-westeurope.openai.azure.com
+2yjmTT6QIzFt2Aln8FkFd49mBUhqtp6GEFAOQX11ANvxGOfjUw4IJQQJ99BDAC5RqLJXJ3w3AAABACOG9ngV
+
+
+swisshacks-aoai-italynorth
+https://swisshacks-aoai-italynorth.openai.azure.com
+GHOYhBwfbaYE0Vdh5RM2NhYtDMabLjHistCkHInY4hy7jxrT9HPAJQQJ99BDACgEuAYXJ3w3AAABACOGDEtw
+
+
+swisshacks-aoai-germanywestcentral
+https://swisshacks-aoai-germanywestcentral.openai.azure.com
+EOtOtmxHZP3MKOrtkNxGNKYIbdaPHYMZNAcYCpnnp4hJa6h9jXjzJQQJ99BDACPV0roXJ3w3AAABACOGUS42
+
+swisshacks-aoai-francecentral
+https://swisshacks-aoai-francecentral.openai.azure.com
+1rz7jScCJBEXCPCMdDC8YERD6IQfjogM8io7ibX6XVHst8g5uQsMJQQJ99BDAC5T7U2XJ3w3AAABACOG0pry
+
+swisshacks-aoai-eastus	https://swisshacks-aoai-eastus.openai.azure.com
+2f8orgJ7DEYAYGusBYBg2hvVIhbPWq0rEwZ7nIGhbRK50KBTd6DTJQQJ99BDACYeBjFXJ3w3AAABACOGqvR9
