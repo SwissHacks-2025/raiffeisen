@@ -13,6 +13,9 @@ gpt-4o-mini-realtime-preview
 https://swisshacks.cognitiveservices.azure.com/openai/realtime?api-version=2024-10-01-preview&deployment=gpt-4o-mini-realtime-preview
 1oMKRiIkIyr2L5kxA9ltkUvy43tEsUN7ynUWde4DPIaX636Esao2JQQJ99BDACfhMk5XJ3w3AAAAACOGSMWt
 
+Azure AI Search
+https://swisshacksaisearch.search.windows.net
+B6dLbWFcmK5qxZHFwWpqiAYfOeGV63EjOFnWkUAkGrAzSeBI2uq0
 
 *********************************************************************************************
 
