@@ -1,4 +1,4 @@
-We cannot provide detailed earnings in each segment (not disclosed). Approx. it is like the following:
+We cannot provide detailed earnings in each segment. Approx. it is like the following:
 * 30% Mortgages
 * 30% Basic Banking
 * 20% Corporate Banking
