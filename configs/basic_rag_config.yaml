@@ -1,6 +1,7 @@
 # docs paths
 raiffeisen_products_path: docs/raiffeisenprodukte_final_EN.docx
 bias_path: docs/biases_descriptions.csv
+dialogue_path: docs/dialogue.docx
 
 api_version: 2024-02-15-preview
 azure_endpoint: https://swisshacks-aoai-westeurope.openai.azure.com/
@@ -9,4 +10,8 @@ azure_endpoint: https://swisshacks-aoai-westeurope.openai.azure.com/
 embeddings:
   model_name: text-embedding-3-large
 
+retriever:
+  k: 2
 
+llm:
+  model_name: gpt-4o
